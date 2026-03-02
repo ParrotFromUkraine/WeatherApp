@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/WeatherApp-%F0%9F%8C%A6-blue?style=for-the-badge&logo=appveyor" alt="WeatherApp">
   <br><br>
-  <img width="600" src="https://via.placeholder.com/600x300/1e3a8a/ffffff?text=Weather+App+Screenshot" alt="Weather App Demo">
   <!-- Замени ссылку выше на реальный скриншот после того, как добавишь его в репозиторий -->
 </p>
 
@@ -45,5 +44,6 @@
    git clone https://github.com/ParrotFromUkraine/WeatherApp.git
    cd weatherApp/src/
    open index.html
+
 
 

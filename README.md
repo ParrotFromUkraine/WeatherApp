@@ -44,6 +44,3 @@
    git clone https://github.com/ParrotFromUkraine/WeatherApp.git
    cd weatherApp/src/
    open index.html
-
-
-

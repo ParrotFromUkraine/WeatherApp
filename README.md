@@ -30,13 +30,6 @@
 - Пошук міст українською та англійською
 - Використовується відкритий API (OpenWeatherMap)
 
-## 🖥️ Демо / Live Demo
-
-→ **[Спробувати прямо зараз](https://parrotfromukraine.github.io/WeatherApp/)** ←  
-*(якщо ти вже зробив GitHub Pages — заміни посилання)*
-
-Або просто відкрий `index.html` у браузері після клонування.
-
 ## 🚀 Технології
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,3 +45,6 @@
 1. Клонуй репозиторій
    ```bash
    git clone https://github.com/ParrotFromUkraine/WeatherApp.git
+   cd weatherApp/src/
+   open index.html
+
